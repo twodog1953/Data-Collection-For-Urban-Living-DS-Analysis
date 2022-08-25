@@ -1,0 +1,68 @@
+City Name,Traffic Time,Congestion Level,Population,Cost of Living
+Akron,23,10%,197597,89.4
+Albany,25,11%,96460,100.1
+Albuquerque,39,17%,560513,92.9
+Allentown,32,14%,121442,98.9
+Atlanta,48,21%,506811,100.3
+Austin,46,20%,978908,106.6
+Bakersfield,46,20%,384145,102.9
+Baltimore,34,15%,593490,107
+Baton Rouge,62,27%,220236,91.1
+Birmingham,32,14%,209403,90.7
+Boston,43,19%,692600,132.6
+Buffalo,29,13%,255284,97.3
+Charleston,46,20%,137566,101.7
+Charlotte,34,15%,885708,97.9
+Chicago,55,24%,2693976,100.1
+Cincinnati,32,14%,303940,92.4
+Cleveland,23,10%,381009,90
+Colorado Springs,36,16%,478221,102.2
+Columbia,29,13%,131674,91.9
+Columbus,29,13%,898553,93.9
+Dayton,23,10%,140407,88.4
+Denver,41,18%,727211,112.1
+Detroit,29,13%,670031,93.2
+El Paso,36,16%,681728,88.6
+Fresno,46,20%,531576,105.9
+Grand Rapids,29,13%,201013,93.7
+Hartford,29,13%,122105,104.8
+Houston,46,20%,2320268,95.8
+Kansas City,23,10%,495327,91.6
+Knoxville,29,13%,187603,91.6
+Las Vegas,46,20%,651319,100.7
+Little Rock,23,10%,197312,88
+McAllen,46,20%,143268,86
+Memphis,32,14%,651073,88.2
+Milwaukee,25,11%,590157,93.8
+New Haven,36,16%,130250,107.7
+New Orleans,48,21%,390144,92.4
+New York,80,35%,8336817,128
+Oklahoma City,34,15%,655057,87.3
+Orlando,43,19%,287442,101.4
+Philadelphia,50,22%,1584064,103.4
+Phoenix,34,15%,1680992,104.3
+Pittsburgh,39,17%,300286,93.1
+Portland,46,20%,654741,116.5
+Providence,41,18%,179883,111.5
+Raleigh,32,14%,474069,99.7
+Riverside,52,23%,331360,116.1
+Rochester,25,11%,205695,96.6
+Sacramento,46,20%,513624,120.3
+Salt Lake City,34,15%,200567,105.9
+San Antonio,36,16%,1547253,92.7
+San Diego,46,20%,1423851,136.2
+San Francisco,59,26%,881549,178.6
+San Jose,43,19%,1021795,173.5
+Seattle,52,23%,753675,124.6
+St. Louis,25,11%,300576,89.6
+Syracuse,23,10%,142327,95.1
+Tampa,48,21%,399700,101.4
+Tucson,41,18%,548073,97.7
+Tulsa,32,14%,401190,86.7
+Virginia Beach,39,17%,449974,99
+Washington,48,21%,705749,120.1
+Winston-Salem,20,9%,247945,91.2
+Worcester,32,14%,185428,113.2
+Los Angeles,75,33%,3979576,140.6
+Miami,64,28%,467963,110.1
+Minneapolis,23,10%,429606,105.4

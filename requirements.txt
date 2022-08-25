@@ -1,0 +1,4 @@
+beautifulsoup4==4.10.0
+urllib==3.10.4
+json==3.10.4
+requests==2.24.0

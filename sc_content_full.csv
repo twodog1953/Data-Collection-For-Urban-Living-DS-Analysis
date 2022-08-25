@@ -1,0 +1,81 @@
+Country Rank,City Name,Time lost(Hour),Congestion Level
+1,New York,80,35%
+2,Los Angeles,75,33%
+3,Miami,64,28%
+4,Baton Rouge,62,27%
+5,San Francisco,59,26%
+6,Chicago,55,24%
+7,Honolulu,52,23%
+8,Seattle,52,23%
+9,Riverside,52,23%
+10,Philadelphia,50,22%
+11,Atlanta,48,21%
+12,Tampa,48,21%
+13,Cape Coral-Fort Myers,48,21%
+14,New Orleans,48,21%
+15,Washington,48,21%
+16,Houston,46,20%
+17,Charleston,46,20%
+18,McAllen,46,20%
+19,Portland,46,20%
+20,Fresno,46,20%
+21,Austin,46,20%
+22,Sacramento,46,20%
+23,Boise,46,20%
+24,Bakersfield,46,20%
+25,San Diego,46,20%
+26,Las Vegas,46,20%
+27,Boston,43,19%
+28,Orlando,43,19%
+29,Nashville,43,19%
+30,San Jose,43,19%
+31,Tucson,41,18%
+32,Providence,41,18%
+33,Denver,41,18%
+34,Oxnard-Thousand Oaks-Ventura,39,17%
+35,Pittsburgh,39,17%
+36,Albuquerque,39,17%
+37,Dallas-Fort Worth,39,17%
+38,Greenville,39,17%
+39,Virginia Beach,39,17%
+40,Colorado Springs,36,16%
+41,San Antonio,36,16%
+42,Jacksonville,36,16%
+43,New Haven,36,16%
+44,El Paso,36,16%
+45,Salt Lake City,34,15%
+46,Charlotte,34,15%
+47,Baltimore,34,15%
+48,Oklahoma City,34,15%
+49,Phoenix,34,15%
+50,Louisville,34,15%
+51,Allentown,32,14%
+52,Cincinnati,32,14%
+53,Tulsa,32,14%
+54,Memphis,32,14%
+55,Worcester,32,14%
+56,Birmingham,32,14%
+57,Raleigh,32,14%
+58,Grand Rapids,29,13%
+59,Detroit,29,13%
+60,Buffalo,29,13%
+61,Omaha-Council Bluffs,29,13%
+62,Hartford,29,13%
+63,Knoxville,29,13%
+64,Columbia,29,13%
+65,Columbus,29,13%
+66,Indianapolis,27,12%
+67,Milwaukee,25,11%
+68,Rochester,25,11%
+69,Albany,25,11%
+70,St. Louis,25,11%
+71,Cleveland,23,10%
+72,Richmond,23,10%
+73,Minneapolis,23,10%
+74,Dayton,23,10%
+75,Kansas City,23,10%
+76,Little Rock,23,10%
+77,Syracuse,23,10%
+78,Akron,23,10%
+79,Winston-Salem,20,9%
+80,Greensboro-High Point,18,8%
